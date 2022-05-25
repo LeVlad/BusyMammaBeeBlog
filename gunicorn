@@ -1,0 +1,13 @@
+Collecting django
+  Downloading Django-4.0.4-py3-none-any.whl (8.0 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.0/8.0 MB 110.7 MB/s eta 0:00:00
+Collecting asgiref<4,>=3.4.1
+  Downloading asgiref-3.5.2-py3-none-any.whl (22 kB)
+Collecting backports.zoneinfo
+  Downloading backports.zoneinfo-0.2.1-cp38-cp38-manylinux1_x86_64.whl (74 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 74.0/74.0 kB 27.2 MB/s eta 0:00:00
+Collecting sqlparse>=0.2.2
+  Downloading sqlparse-0.4.2-py3-none-any.whl (42 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 42.3/42.3 kB 8.1 MB/s eta 0:00:00
+Installing collected packages: sqlparse, backports.zoneinfo, asgiref, django
+Successfully installed asgiref-3.5.2 backports.zoneinfo-0.2.1 django-4.0.4 sqlparse-0.4.2
